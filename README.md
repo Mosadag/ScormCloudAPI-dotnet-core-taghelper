@@ -1,3 +1,3 @@
-# CloudScormAPIExample
+# SCORM Cloud API V2 
 
-this example show how use cloud scorm APIv2 with taghelper to load course content in simple way 
+this example show how use cloud scorm  with taghelper to load course content in simple way 
